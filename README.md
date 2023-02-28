@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schenke-io
 - 👀 I’m interested in PHP and JavaScript
-- 🌱 I’m currently learning Laravel and Twill
+- 🌱 I’m currently learning Laravel 
 - 💞️ I’m looking to collaborate on plugins
 - 📫 How to reach me https://www.schenke.io
 
